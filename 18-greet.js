@@ -1,6 +1,6 @@
 // WPU Coding Challenge 2024
 // 18/366
-// https://www.codewars.com/kata/5772da22b89313a4d50012f7
+// https://www.codewars.com/kata/57eaeb9578748ff92a000009
 
 // menggunakan if else
 // function greet (name, owner) {
