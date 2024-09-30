@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// 28/366
+// 29/366
 // https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 
 // function removeEveryOther(arr){
